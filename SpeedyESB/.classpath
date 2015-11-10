@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.wsf.ide.creation.ui_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.wsf.ide.creation.core_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.wsf.ide.core_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.wsf.ide.consumption.ui_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.wsf.ide.consumption.core_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.wsf.ide.bpel.export_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.utils_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.usermgt.remote_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.ui_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.server.base_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.samples_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.registry.connector_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.platform.ui_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.platform.core_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.maven_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.logging_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.libraries_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.gs.jaggery.editor_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.search_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.resource.authorization_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.registry.handler_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.registry.filter_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.registry.aspects_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.perspective_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.manager.remote_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.manager.local_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.libraries_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.core_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.base_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.greg.apim.perspective_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.gmf.esb_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.gmf.esb.persistence_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.gmf.esb.edit_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.gmf.esb.diagram_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.general.project_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.esb.project_3.8.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.esb.project-3.8.0-20151004.213424-390-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.esb.core_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.ds_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.ds.source.editor_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.ds.editor_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.ds.editor.xml_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.ds.edit_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.ds.customvalidator_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.distributionproject.module_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.distribution.project_3.8.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.distribution.project-3.8.0-20151004.213300-391-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.carbonserver44_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.carbonserver42_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.carbonserver40_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.carbonserver32_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.carbonserver31_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.carbonserver30_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.carbonserver.remote_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.carbonserver.base_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.carbonfeatures_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.capp.maven_3.8.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.capp.maven-3.8.0-20151004.213135-392-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.capp.core_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.bpel.core_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.axis2.rpcmessagereceiver_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.webapp_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.template.sequence_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.task_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.synapse_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.synapse.api_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.sequence_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.security_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.registry_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.registry.handler_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.registry.filter_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.proxyservice_3.8.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.artifact.proxyservice-3.8.0-20151004.212958-392-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.messagestore_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.messageprocessor_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.mediator_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.localentry_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.library_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.jaxws_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.jaxrs_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.inboundendpoint_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.gadget_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.endpoint_3.8.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.artifact.endpoint-3.8.0-20151004.212908-392-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.dataserviceProject_3.8.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.artifact.dataserviceProject-3.8.0-20151004.212903-306-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.dataservice_3.8.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.artifact.dataservice-3.8.0-20151004.212855-392-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.dataservice.validator_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.connector_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.carbon.ui.bundle_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.brs_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.bpel_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.axis2serviceclient_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.axis2_3.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.analytics_1.0.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.artifact.analytics-1.1.0-20151102.212753-27-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.analytics.stream_1.0.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.artifact.analytics.stream-1.1.0-20151102.212808-27-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.analytics.receiver_1.0.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.artifact.analytics.receiver-1.1.0-20151102.212804-27-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.analytics.publisher_1.0.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.artifact.analytics.publisher-1.1.0-20151102.212800-27-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.eclipse.artifact.analytics.execution_plan_1.0.0.jar" sourcepath="Referenced Libraries Src/org.wso2.developerstudio.eclipse.artifact.analytics.execution_plan-1.1.0-20151102.212757-27-sources.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.bpel.humantask.ui_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.bpel.humantask.model_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.appfactory.ui_2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/bro_sbechtel/Dev/eclipse/plugins/org.wso2.developerstudio.appfactory.core_2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
