@@ -1,4 +1,4 @@
-package speedyesb;
+package com.github.bechtelcandoit.speedyesb;
 
 import org.eclipse.jface.resource.ImageDescriptor;
 import org.eclipse.ui.plugin.AbstractUIPlugin;
