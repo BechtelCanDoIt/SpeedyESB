@@ -6,14 +6,20 @@ import org.eclipse.ui.INewWizard;
 import org.eclipse.ui.IWorkbench;
 import org.eclipse.core.runtime.*;
 import org.eclipse.jface.operation.*;
+
 import java.lang.reflect.InvocationTargetException;
+
 import org.eclipse.jface.dialogs.MessageDialog;
 import org.eclipse.jface.viewers.ISelection;
 import org.eclipse.core.resources.*;
 import org.eclipse.core.runtime.CoreException;
+
 import java.io.*;
+
 import org.eclipse.ui.*;
 import org.eclipse.ui.ide.IDE;
+
+import com.github.bechtelcandoit.speedyesb.batch.CreateEmptyProject;
 
 /**
  * This is a sample new wizard. Its role is to create a new file 
@@ -121,6 +127,10 @@ public class SpeedyESBWizard extends Wizard implements INewWizard {
 			}
 		});
 		monitor.worked(1);
+		
+		//TODO: TEMP just to be able to call our dev test!
+		CreateEmptyProject tst = new CreateEmptyProject();
+		tst.test();
 	}
 	
 	/**
