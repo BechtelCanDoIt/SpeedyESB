@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: SpeedyESB
 Bundle-SymbolicName: SpeedyESB;singleton:=true
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: speedyesb.Activator
+Bundle-Activator: com.github.bechtelcandoit.speedyesb.Activator
 Bundle-Vendor: BechtelCanDoIt@Gmail.com
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
